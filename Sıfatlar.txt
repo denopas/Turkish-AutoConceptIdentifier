@@ -1,0 +1,447 @@
+SIFAT	KARŞILIĞI
+acı	tad
+acılı	tad
+akşamki	zaman
+akuamarin 	renk
+alev kırmızısı	renk
+alev turuncusu	renk
+alice mavisi	renk
+alizarin 	renk
+altı	sayı
+altıgen	şekil
+altıncı	sıra sayı
+altınımsı	renk
+altışar	miktar
+altmış	sayı
+altmışar	miktar
+altmışıncı	sıra sayı
+arka	yön
+arkadaki	yön
+asker yeşili	renk
+aşırı	miktar
+ayrık sarı	renk
+az	miktar
+az-çok	miktar
+baharatlı	tad
+bakır 	renk
+bakır 	renk
+barut 	renk
+barut 	renk
+basit	zorluk seviyesi
+bataklık yeşili	renk
+bataklık yeşili	renk
+bebek	yaş
+bebek mavisi	renk
+bebek mavisi	renk
+bej	renk
+bej	renk
+berrak mavi	renk
+beş	sayı
+beş yüz	sayı
+beş yüzer	miktar
+beş yüzüncü	sıra sayı
+beşer	miktar
+beşgen 	şekil
+beşinci	sıra sayı
+beyaz	renk
+beyaz	renk
+bin	sayı
+bin altı yüz	sayı
+bin altı yüzüncü	sıra sayı
+bin beş yüz	sayı
+bin beş yüzüncü	sıra sayı
+bin bir	sayı
+bin birinci	sıra sayı
+bin dokuz yüz	sayı
+bin dokuz yüzüncü	sıra sayı
+bin dört yüz	sayı
+bin dört yüzüncü	sıra sayı
+bin iki yüz	sayı
+bin iki yüzüncü	sıra sayı
+bin sekiz yüz	sayı
+bin sekiz yüzüncü	sıra sayı
+bin üç yüz	sayı
+bin üç yüzüncü	sıra sayı
+bin yedi yüz	sayı
+bin yedi yüzüncü	sıra sayı
+bin yüz	sayı
+bin yüzüncü	sıra sayı
+biner	miktar
+bininci	sıra sayı
+bir	sayı
+bir milyar	sayı
+bir milyarıncı	sıra sayı
+bir milyon	sayı
+bir milyonuncu	sıra sayı
+bir trilyon	sayı
+bir trilyonuncu	sıra sayı
+birer	miktar
+birinci	sıra sayı
+birkaç	miktar
+bondi mavisi	renk
+bondi mavisi	renk
+bordo	renk
+bordo	renk
+bronz 	renk
+bronz 	renk
+bugünkü	zaman
+buğday 	renk
+buğday 	renk
+bulutlu	hava durumu
+burgonya	renk
+burgonya	renk
+büyük	ebat
+camgöbeği	renk
+camgöbeği mavisi	renk
+celadon	renk
+çam yeşili	renk
+çay yeşili	renk
+çelik mavisi	renk
+çember	şekil
+çeyrek	miktar
+çikolata 	renk
+çivit 	renk
+çocuk	yaş
+çok	miktar
+çokgen	şekil
+dağ pembesi	renk
+deniz kabuğu	renk
+deniz mavisi	renk
+deniz yeşili	renk
+devedikeni 	renk
+dikdörtgen	şekil
+doksan	sayı
+doksan bir	sayı
+doksan bir	miktar
+doksan birinci	sıra sayı
+doksanar	miktar
+doksanıncı	sıra sayı
+dokuz	sayı
+dokuzar	miktar
+dokuzuncu	sıra sayı
+donuk turuncu	renk
+dörder	miktar
+dördüncü	sıra sayı
+dört	sayı
+dörtgen	şekil
+dünkü	zaman
+düşük	miktar
+eğrelti yeşili	renk
+ekşi	tad
+elektrik mavisi	renk
+elektrik yeşili 	renk
+elips	şekil
+elli	sayı
+ellinci	sıra sayı
+ellişer	miktar
+enternasyonal turuncu	renk
+eski altın	renk
+eski gül	renk
+eski iplik	renk
+eski lavanta	renk
+evvel	zaman
+fakir 	maddi durum
+falu kırmızısı	renk
+fazla	miktar
+fildişi 	renk
+fransız gül 	renk
+galibarda	renk
+gece mavisi	renk
+geceki	zaman
+geçen	zaman
+geçmiş	zaman
+gelecek	zaman
+genç	yaş
+geri	yön
+gerideki	yön
+gök mavisi	renk
+gök mavisi	renk
+gri	renk
+gri-kuşkonmaz	renk
+gül 	renk
+gül 	renk
+gümüşi	renk
+güncel	zaman
+güney	yön
+haki	renk
+halka	şekil
+ham toprak	renk
+hardal 	renk
+havuç 	renk
+hile mavisi	renk
+holivod kırmızısı	renk
+horozibiği 	renk
+ılık	sıcaklık
+ihtiyar	yaş
+iki	sayı
+iki bin	sayı
+iki bininci	sıra sayı
+ikinci	sıra sayı
+ikişer	miktar
+ileri	yön
+ilerideki	yön
+ilk	sıra sayı
+ilkbahar yeşili	renk
+ince	ebat
+iri	ebat
+irice	yön
+islam yeşili	renk
+kabak 	renk
+kahve	renk
+kahvemsi gri	renk
+kahverengi	renk
+kalın	ebat
+kamuflâj yeşili	renk
+kare 	şekil
+karlı	hava durumu
+karolina mavisi	renk
+karşıdaki	yön
+kat trilyoner	maddi durum
+kıpkırmızı	renk
+kırk	sayı
+kırkar	miktar
+kırkıncı	sıra sayı
+kırmızı	renk
+kırmızı	renk
+kırmızı şarap	renk
+kırmızı-menekşe	renk
+kırmızımsı kahve	renk
+kısa	ebat
+kızıl yumurta mavisi	renk
+kiraz kırmızısı	renk
+kobalt 	renk
+kobalt mavisi	renk
+kolay	zorluk seviyesi
+koni	şekil
+kösele 	renk
+kraliyet mavisi	renk
+krem	renk
+kum kahvesi	renk
+kuşkonmaz 	renk
+kuzey	yön
+kübik	şekil
+küçücük	ebat
+küçük 	ebat
+lacivert	renk
+lacivert	renk
+lavanta 	renk
+lavanta galibarda	renk
+lavanta grisi	renk
+lavanta gül 	renk
+lavanta mavisi	renk
+lavanta mor	renk
+lavanta pembesi	renk
+lavanta pembesi	renk
+leylak 	renk
+lime 	renk
+limoni	renk
+malakit 	renk
+mandalina 	renk
+mavi	renk
+menekşe 	renk
+menekşe-patlıcan 	renk
+mercan	renk
+mercan kırmızısı	renk
+mevcut	uygunluk durumu
+mısır 	renk
+milyoner	maddi durum
+minicik	ebat
+minik	ebat
+mor	renk
+morsalkım 	renk
+müsait 	uygunluk durumu
+nane yeşili	renk
+nar 	renk
+navajo beyazı	renk
+nemli	hava durumu
+on	sayı
+on altı	sayı
+on altıncı	sıra sayı
+on altışar	miktar
+on beş	sayı
+on beşer	miktar
+on beşinci	sıra sayı
+on bir	sayı
+on birer	miktar
+on birinci	sıra sayı
+on dokuz	sayı
+on dokuzar	miktar
+on dokuzuncu	sıra sayı
+on dörder	miktar
+on dördüncü	sıra sayı
+on dört	sayı
+on iki	sayı
+on ikinci	sıra sayı
+on ikişer	miktar
+on sekiz	sayı
+on sekizer	miktar
+on sekizinci	sıra sayı
+on üç	sayı
+on üçer	miktar
+on üçüncü	sıra sayı
+on yedi	sayı
+on yedinci	sıra sayı
+on yedişer	miktar
+onar	miktar
+onuncu	sıra sayı
+orkide 	renk
+orman yeşili	renk
+orta	miktar
+orta mor	renk
+orta şarap	renk
+orta yaşlı	yaş
+otuz	sayı
+otuzar	miktar
+otuzuncu	sıra sayı
+öğlenki	zaman
+ön	yön
+öndeki	yön
+papaya	renk
+parlak mor (galibarda)	renk
+pas 	renk
+pastel pembe	renk
+pastel yeşili	renk
+patlıcan 	renk
+pek çok	miktar
+pembe	renk
+pembe-turuncu	renk
+periwinkle	renk
+pers gülü	renk
+pers kırmızısı	renk
+pers lacivert	renk
+pers mavisi	renk
+pers pembesi	renk
+pers yeşili	renk
+peygamber çiçeği 	renk
+piramit	şekil
+prizma	şekil
+prusya mavisi	renk
+sabahki	zaman
+safir 	renk
+safran 	renk
+sağ	yön
+sağdaki	yön
+salamura grisi	renk
+sarı	renk
+sarımsı kahve	renk
+sarımsı pembe[1]	renk
+sekiz	sayı
+sekizer	miktar
+sekizinci	sıra sayı
+seksen	sayı
+seksen bir	sayı
+seksen bir	miktar
+seksen birinci	sıra sayı
+seksener	miktar
+sekseninci	sıra sayı
+sıcak	sıcaklık
+sıcak magenta	renk
+sıcak pembe	renk
+siğil otu	renk
+silindir	şekil
+sisli	hava durumu
+siyah	renk
+siyahımsı  kahve	renk
+soğuk	sıcaklık
+sol	yön
+soldaki	yön
+soluk sarı	renk
+son	sıra sayı
+soytarı	renk
+şarap 	renk
+şeftali 	renk
+şeftali-sarı	renk
+şeftali-turuncu	renk
+şekerli	tad
+şimdiki	zaman
+tam	miktar
+tarçın 	renk
+tatlı	tad
+teal	renk
+toz mavi	renk
+trilyoner 	maddi durum
+turkuaz	renk
+turuncu	renk
+turuncu	renk
+turuncumsu sarı	renk
+tuzlu	tad
+ufacık	ebat
+ufak	ebat
+uluslararası klein mavisi	renk
+uzun	ebat
+uzun 	ebat
+üç	sayı
+üçer	miktar
+üçgen	şekil
+üçüncü	sıra sayı
+viridian	renk
+vurgun pembe	renk
+yağışlı	hava durumu
+yağmurlu	hava durumu
+yan	yön
+yandaki	yön
+yanık toprak 	renk
+yanık turuncu	renk
+yarım	miktar
+yarınki	zaman
+yaşlı 	yaş
+yedi	sayı
+yedi yüzelli	sayı
+yedi yüzellinci	sıra sayı
+yedinci	sıra sayı
+yedişer	miktar
+yeşil	renk
+yeşil-sarı	renk
+yeşim	renk
+yetişkin	yaş
+yetmiş	sayı
+yetmiş bir	sayı
+yetmiş bir	miktar
+yetmiş birinci	sıra sayı
+yetmişer	miktar
+yetmişinci	sıra sayı
+yirmi	sayı
+yirmi altı	sayı
+yirmi altıncı	sıra sayı
+yirmi altışar	miktar
+yirmi beş	sayı
+yirmi beşer	miktar
+yirmi beşinci	sıra sayı
+yirmi bir	sayı
+yirmi birer	miktar
+yirmi birinci	sıra sayı
+yirmi dokuz	sayı
+yirmi dokuzar	miktar
+yirmi dokuzuncu	sıra sayı
+yirmi dörder	miktar
+yirmi dördüncü	sıra sayı
+yirmi dört	sayı
+yirmi iki	sayı
+yirmi ikinci	sıra sayı
+yirmi ikişer	miktar
+yirmi sekiz	sayı
+yirmi sekizer	miktar
+yirmi sekizinci	sıra sayı
+yirmi üç	sayı
+yirmi üçer	miktar
+yirmi üçüncü	sıra sayı
+yirmi yedi	sayı
+yirmi yedinci	sıra sayı
+yirmi yedişer	miktar
+yirminci	sıra sayı
+yirmişer	miktar
+yoksul 	maddi durum
+yonca yeşili	renk
+yosun yeşili	renk
+yükşek	miktar
+yüz	sayı
+yüz bir	sayı
+yüz birinci	sıra sayı
+yüzellişer	miktar
+yüzer	miktar
+yüzüncü	sıra sayı
+zengin 	maddi durum
+zeytin kahvesi	renk
+zeytuni	renk
+zor	zorluk seviyesi
+zümrüt yeşili	renk
