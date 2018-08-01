@@ -1,6 +1,8 @@
 SIFAT	KARŞILIĞI
 acı	tad
 acılı	tad
+açık yoğunluk
+ağır ağırlık
 akşamki	zaman
 akuamarin 	renk
 alev kırmızısı	renk
@@ -163,6 +165,7 @@ gül 	renk
 gümüşi	renk
 güncel	zaman
 güney	yön
+hafif ağırlık
 haki	renk
 halka	şekil
 ham toprak	renk
@@ -213,6 +216,7 @@ kobalt 	renk
 kobalt mavisi	renk
 kolay	zorluk seviyesi
 koni	şekil
+koyu yoğunluk
 kösele 	renk
 kraliyet mavisi	renk
 krem	renk
@@ -354,6 +358,7 @@ soytarı	renk
 şeftali-turuncu	renk
 şekerli	tad
 şimdiki	zaman
+şişman ağırlık
 tam	miktar
 tarçın 	renk
 tatlı	tad
@@ -430,6 +435,7 @@ yirmi yedinci	sıra sayı
 yirmi yedişer	miktar
 yirminci	sıra sayı
 yirmişer	miktar
+zayıf ağırlık
 yoksul 	maddi durum
 yonca yeşili	renk
 yosun yeşili	renk
